@@ -55,5 +55,5 @@ function moveCube (moveName) {
 }
 
 function moveWall (moveName) {
-    console.log("moving wall lol")
+    console.log(moveName)
 }
